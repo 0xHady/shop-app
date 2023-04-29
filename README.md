@@ -19,7 +19,7 @@ This is a simple e-commerce web application built using Node.js. The application
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/simple-shop-nodejs.git
+git clone https://github.com/0xHady/shop-app.git
 ```
 
 2. Install the depenedencies:
